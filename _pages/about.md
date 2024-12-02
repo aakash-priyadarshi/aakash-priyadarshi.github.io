@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ### **Motto** - *"Innovating for a smarter and more connected world."*
+subtitle: AI Enthusiast | Software Engineer | Innovator | Lecturer
 
 
 
