@@ -5,11 +5,6 @@ permalink: /
 subtitle: AI Enthusiast | Software Engineer | Innovator | Lecturer
 
 
-
----
-
-You can customize the tone and details further based on your preferences!
-
 profile:
   align: right
   image: prof_pic.jpg
