@@ -2,7 +2,7 @@
 layout: page
 title: AI Trading Bot for Stock Market Forecasting
 description: Predictive modeling and auto-trading platform using machine learning
-img: github.com/aakash-priyadarshi/ai-trading-bot/blob/main/trading-bot.webp
+img: assets/img/trading-bot.webp
 importance: 1
 category: work
 related_publications: true
