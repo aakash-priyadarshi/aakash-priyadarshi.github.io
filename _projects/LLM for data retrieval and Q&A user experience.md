@@ -2,7 +2,7 @@
 layout: page
 title: Domain-specific applications of LLM for data retrieval and Q&A user experience
 description: Leveraging GPT-3.5-turbo, Pinecone, and NLP techniques for a tailored Q&A application.
-img: assets/img/12.jpg
+img: assets/img/project-image-2.webp
 importance: 1
 category: work
 related_publications: true
