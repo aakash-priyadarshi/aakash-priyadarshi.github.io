@@ -1,81 +1,104 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: AI-Driven Exosuits for Military and Industrial Applications
+description: Revolutionizing human augmentation with BMI, AI, and advanced materials
+img: assets/img/Exoskeleton-v22.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project focuses on advancing human augmentation technologies through the development of AI-driven exosuits for military and industrial applications. Leveraging insights from my patented designs, this research integrates Brain-Machine Interfaces (BMIs), machine learning, and state-of-the-art materials to create transformative wearable robotics.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
+
+## Highlights
+
+### 1. **AI Integration**
+- **Military Applications**:
+  - Enhances situational awareness and decision-making through AI-driven sensor fusion.
+  - Incorporates physiological monitoring for real-time user support.
+- **Industrial Applications**:
+  - Predicts user fatigue and optimizes ergonomic support during heavy lifting and repetitive tasks.
+
+### 2. **Brain-Machine Interface (BMI)**
+- Utilizes Neuralink-inspired BMIs for seamless control.
+- Integrates EEG, EMG, and neural signals with machine learning for real-time operation.
+
+### 3. **Material Innovation**
+- **Military Exosuits**:
+  - Employ carbon fiber and Kevlar for lightweight, impact-resistant designs.
+- **Industrial Exosuits**:
+  - Use Onyx composites for cost-effective, robust frames.
+
+### 4. **Prototyping and Testing**
+- Simulated and real-world testing for:
+  - Response time.
+  - Load capacity.
+  - User comfort and safety.
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exosuit_bmi.jpg" title="Brain-Machine Interface in Exosuit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exosuit_materials.jpg" title="Material Design in Exosuit" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: BMI integration with AI-driven control. Right: Material innovations for robust and lightweight exosuits.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Methodology
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+1. **BMI Development**:
+   - Non-invasive and invasive neural signal acquisition using flexible polymer probes.
+   - Real-time decoding of neural signals into actuator commands via machine learning.
 
-{% raw %}
+2. **AI and Sensor Fusion**:
+   - Processes data from physiological and environmental sensors.
+   - Provides actionable insights and adaptive responses.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+3. **Material Testing**:
+   - Stress testing for carbon fiber, Kevlar, and Onyx composites.
+   - 3D printing for prototyping exosuit components.
 
-{% endraw %}
+4. **Prototyping and Validation**:
+   - Development of functional exosuits for military and industrial use cases.
+   - Testing in controlled and operational environments.
+
+---
+
+## Results
+
+- **Enhanced Precision**:
+  - Seamless, intuitive control via BMI integration.
+- **Improved Efficiency**:
+  - Boosted safety and operational efficiency in high-stakes environments.
+- **Scalable Design**:
+  - Framework adaptable to various domains beyond military and industrial applications.
+
+---
+
+## Future Scope
+1. Expansion of BMI capabilities for broader applications.
+2. Integration with real-time IoT systems for remote monitoring.
+3. Exploration of bio-compatible materials for extended wear.
+
+---
+
+## Related Publications
+- **Artificial Intelligence Integrated Robotic Military Suit**  
+  Patent No. 202331040486, July 11, 2024.  
+- **Industrial Load Lifting Robotic Arm Exosuit**  
+  Patent Application No. 202131036513, September 3, 2021.  
+
+---
+
+For further details, access the full [Research Proposal](#) or [GitHub Repository](https://github.com/example-repo-link).
