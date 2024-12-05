@@ -1,11 +1,12 @@
 github_users:
-  - torvalds
+  - aakash-priyadarshi
   - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - aakash-priyadarshi/gpt-model
+  - aakash-priyadarshi/ai-trading-bot
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
