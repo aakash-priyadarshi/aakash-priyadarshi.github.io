@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+**Note:** This is a research project based on patented designs. No public repository is currently available.
+
 ## Overview
 
 This project focuses on advancing human augmentation technologies through the development of AI-driven exosuits for military and industrial applications. Leveraging insights from my patented designs, this research integrates Brain-Machine Interfaces (BMIs), machine learning, and state-of-the-art materials to create transformative wearable robotics.
@@ -97,8 +99,4 @@ This project focuses on advancing human augmentation technologies through the de
 - **Artificial Intelligence Integrated Robotic Military Suit**  
   Patent No. 202331040486, July 11, 2024.  
 - **Industrial Load Lifting Robotic Arm Exosuit**  
-  Patent Application No. 202131036513, September 3, 2021.  
-
----
-
-For further details, access the full [Research Proposal](#) or [GitHub Repository](https://github.com/example-repo-link).
+  Patent Application No. 202131036513, September 3, 2021.

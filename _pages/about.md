@@ -94,7 +94,7 @@ Software Engineer with hands-on experience building production-grade AI agents, 
 - **Machine Learning Model to Forecast Company Stock Prices** - Built a cloud-based web app using React.js, Python (Flask), and AWS with RESTful APIs for real-time data processing. Deployed on AWS with 3x performance improvement. [GitHub](https://github.com/aakash-priyadarshi/ai-trading-bot)
 - **Chatbot for Contextual Customer Interaction** - Real-time chat system with Socket.IO, semantic search using Hugging Face & Pinecone, integrated OpenAI GPT-3.5, reducing data retrieval time by 40%.
 - **AI Car Parking Management System** - Built with React.js, Node.js, WebSockets, and predictive models using Python, OpenCV, TensorFlow, reducing search times by 30%.
-- **Open-Source LLM Developer Chatbot SDK & Platform** - Full developer SDK using Node.js, OpenAI GPT-4, and Pinecone with semantic search, embedded logging, and Docker deployment. [GitHub](https://github.com/aakash-priyadarshi/gpt4-chatbot-pinecone)
+- **Open-Source LLM Developer Chatbot SDK & Platform** - Full developer SDK using Node.js, OpenAI GPT-4, and Pinecone with semantic search, embedded logging, and Docker deployment. [GitHub](https://github.com/aakash-priyadarshi/gpt-model)
 
 ###  **Vision**
 I aim to revolutionize AI systems through impactful research and innovative solutions, specializing in production-grade AI agents and LLM-powered applications. My goal is to continue pushing the boundaries of what's possible with artificial intelligence while building scalable, customer-facing solutions that solve real-world problems.
