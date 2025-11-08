@@ -1,15 +1,12 @@
 github_users:
   - aakash-priyadarshi
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
   - aakash-priyadarshi/gpt-model
   - aakash-priyadarshi/ai-trading-bot
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - aakash-priyadarshi/phd-apply-agent
+  - aakash-priyadarshi/news-duplication-system
+  - aakash-priyadarshi/Workshop
+  - aakash-priyadarshi/aakash-priyadarshi.github.io
