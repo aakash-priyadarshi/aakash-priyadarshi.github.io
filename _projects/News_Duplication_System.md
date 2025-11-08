@@ -4,7 +4,7 @@ title: News Duplication Detection System
 description: AI-powered system for identifying duplicate news articles using OpenAI embeddings
 img: assets/img/news-duplication.jpg
 importance: 2
-category: work
+category: fun
 github: https://github.com/aakash-priyadarshi/news-duplication-system
 ---
 

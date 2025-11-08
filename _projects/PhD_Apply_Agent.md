@@ -4,7 +4,7 @@ title: PhD Apply Agent
 description: Intelligent AI agent that automates PhD application outreach using Google Search API and custom email generation
 img: assets/img/phd-agent.jpg
 importance: 1
-category: work
+category: fun
 github: https://github.com/aakash-priyadarshi/phd-apply-agent
 ---
 

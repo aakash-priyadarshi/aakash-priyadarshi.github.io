@@ -1,200 +1,343 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aakash Priyadarshi",
+    "label": "AI Full-Stack Developer | Software Engineer | AI Agent Architect",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aakashm301@gmail.com",
+    "phone": "+44 7407045050 | +91 6203965557",
+    "url": "https://aakash-priyadarshi.github.io/",
+    "summary": "Software Engineer with hands-on experience building production-grade AI agents, full-stack applications, and LLM-powered systems. Proficient in designing scalable architectures that blend real-time performance, custom tooling, and human-like interaction.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "United Kingdom"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "aakash-priyadarshi",
+        "url": "https://github.com/aakash-priyadarshi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "aakash-priyadarshi",
+        "url": "https://www.linkedin.com/in/aakash-priyadarshi/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Mercor",
+      "position": "Full-Stack AI Engineer",
+      "url": "https://mercor.com",
+      "startDate": "2025-02-01",
+      "endDate": "",
+      "summary": "Engineering internal developer tools for GPT evaluation workflows, ensuring secure and scalable production environments.",
+      "highlights": [
+        "Built internal GPT evaluation pipelines using FastAPI + React, deployed via Docker on AWS Lambda and EC2",
+        "Authored Python scripts to automate data collection and semantic scoring for large-scale LLM testing",
+        "Designed full-stack architecture supporting containerization, observability, and cross-team collaboration"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Wirral Met College",
+      "position": "Computer Science Professor",
+      "url": "https://www.wmc.ac.uk/",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-01",
+      "summary": "Teaching Python programming and web development, fostering innovation among students.",
+      "highlights": [
+        "Delivered comprehensive Python and web development courses",
+        "Mentored students in software engineering best practices"
+      ]
+    },
+    {
+      "name": "University of Liverpool",
+      "position": "Teaching Assistant",
+      "url": "https://www.liverpool.ac.uk/",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-01",
+      "summary": "Guided undergraduate students in Software Engineering and Cybersecurity modules.",
+      "highlights": [
+        "Assisted in Software Engineering and Cybersecurity coursework",
+        "Provided one-on-one student mentoring and code reviews"
+      ]
+    },
+    {
+      "name": "Bihari Construction & Infra Pvt. Ltd.",
+      "position": "Senior Software Developer & Technical Lead",
+      "url": "",
+      "startDate": "2020-07-01",
+      "endDate": "2023-09-01",
+      "summary": "Led development of internal web applications for team tracking, project operations, and finance.",
+      "highlights": [
+        "Built web apps using React, Node.js for team tracking and operations",
+        "Automated business operations using REST APIs, WebSockets, and SQL pipelines",
+        "Owned sprint planning and code delivery with cross-functional teams",
+        "Improved response times and reduced routine tasks for CS/Ops teams"
+      ]
+    },
+    {
+      "name": "Coursera",
+      "position": "Remote Student Mentor Volunteer",
+      "url": "https://www.coursera.org/",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-01",
+      "summary": "Mentored students globally in computer science and programming fundamentals.",
+      "highlights": [
+        "Provided guidance on programming concepts and career development",
+        "Assisted international students with coursework and projects"
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Liverpool",
+      "location": "Liverpool, United Kingdom",
+      "url": "https://www.liverpool.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2023-09-01",
+      "endDate": "2024-09-01",
+      "score": "Distinction (72%)",
+      "courses": [
+        "Programming Fundamentals (86.68 - Top 8)",
+        "Machine Learning",
+        "Software Engineering",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "institution": "Galgotias College of Engineering and Technology",
+      "location": "Greater Noida, India",
+      "url": "https://galgotiascollege.edu/",
+      "area": "Electronics and Instrumentation Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2016-07-01",
+      "endDate": "2020-06-01",
+      "score": "Merit",
+      "courses": [
+        "Circuit Design",
+        "Embedded Systems",
+        "Control Systems",
+        "Signal Processing"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "DRDO Patent Recognition - AI Integrated Robotic Military Suit",
+      "date": "2024-07-11",
+      "awarder": "Defence Research and Development Organisation (DRDO)",
+      "url": "",
+      "summary": "Patent shortlisted by DRDO for military use - Artificial Intelligence Integrated Robotic Military Suit (Patent No. 202331040486)"
+    },
+    {
+      "title": "Top 8 Student - Programming Fundamentals",
+      "date": "2024-01-01",
+      "awarder": "University of Liverpool",
+      "url": "",
+      "summary": "Scored 86.68 in COMP-517 Programming Fundamentals, ranking among top 8 students"
+    },
+    {
+      "title": "MSc Distinction",
+      "date": "2024-09-01",
+      "awarder": "University of Liverpool",
+      "url": "",
+      "summary": "Awarded Distinction (72%) for MSc in Computer Science with top grades in dissertation and coursework"
+    },
+    {
+      "title": "National Science Exhibition Selection",
+      "date": "2015-01-01",
+      "awarder": "National Science Exhibition, India",
+      "url": "",
+      "summary": "Selected for two consecutive national-level science exhibitions"
+    },
+    {
+      "title": "4th Rank - National English Olympiad (Bihar)",
+      "date": "2013-01-01",
+      "awarder": "National English Olympiad",
+      "url": "",
+      "summary": "Ranked 4th in Bihar state for National English Olympiad during high school"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Patent - AI Integrated Robotic Military Suit",
+      "date": "2024-07-11",
+      "issuer": "Indian Patent Office",
+      "url": "",
+      "icon": "fa-solid fa-robot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Patent - User Interactive Assistive Learning Educational Content Generation AI Platform",
+      "date": "2023-01-01",
+      "issuer": "Indian Patent Office",
+      "url": "",
+      "icon": "fa-solid fa-graduation-cap"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Patent - Industrial Load Lifting Robotic Arm Exosuit",
+      "date": "2021-09-03",
+      "issuer": "Indian Patent Office",
+      "url": "",
+      "icon": "fa-solid fa-industry"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Astropy FITS Logical Variable-Length Array Fix",
+      "publisher": "Astropy Open Source Project",
+      "releaseDate": "2024-01-01",
+      "url": "https://github.com/astropy/astropy/pull/18778",
+      "summary": "Fixed 14-year-old FITS standard compliance bug in binary table I/O module. Implemented dtype=object architecture for three-state logical data (True/False/None), added 24 unit tests achieving 82% test coverage. Merged into v8.0.0 release."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Building a Predictive Model for Stock Market Prices",
+      "publisher": "University of Liverpool - MSc Dissertation",
+      "releaseDate": "2024-09-01",
+      "url": "",
+      "summary": "MSc dissertation integrating advanced machine learning techniques for stock price prediction. Achieved top grades for innovative approach and technical implementation."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "AI & LLM Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "LangChain",
+        "RAG Pipelines",
+        "OpenAI APIs",
+        "Pinecone",
+        "Prompt Engineering",
+        "Hugging Face Transformers"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Shadcn"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-server",
+      "keywords": [
+        "Python (FastAPI, Flask)",
+        "Node.js",
+        "REST APIs",
+        "WebSockets",
+        "Express.js"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS (Lambda, EC2)",
+        "GCP",
+        "Docker",
+        "GitHub Actions",
+        "Cloud Run",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "PostgreSQL",
+        "Firebase",
+        "Redis",
+        "Vector Stores"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Professional working proficiency",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "LLM Applications",
+        "AI Agents",
+        "Machine Learning",
+        "Neural Networks",
+        "RAG Systems"
+      ]
+    },
+    {
+      "name": "Robotics & Automation",
+      "icon": "fa-solid fa-gear",
+      "keywords": [
+        "Exoskeleton Design",
+        "Brain-Machine Interfaces",
+        "Industrial Automation",
+        "Embedded Systems"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Astropy FITS Logical VLA Fix",
+      "summary": "Fixed 14-year-old FITS standard compliance bug in Astropy's binary table I/O module. Implemented dtype=object architecture for three-state logical data, added 24 unit tests achieving 82% coverage.",
+      "highlights": [
+        "First person to identify bug since 2011 PyFITS implementation",
+        "500+ lines of code across 4 files",
+        "Merged into v8.0.0 milestone"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "url": "https://github.com/astropy/astropy/pull/18778"
+    },
+    {
+      "name": "AI Trading Bot",
+      "summary": "Cloud-based web application for stock price forecasting using React.js, Python (Flask), and AWS with RESTful APIs for real-time data processing.",
+      "highlights": [
+        "3x performance improvement",
+        "Real-time ML predictions",
+        "AWS deployment"
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-09-01",
+      "url": "https://github.com/aakash-priyadarshi/ai-trading-bot"
+    },
+    {
+      "name": "GPT Developer SDK",
+      "summary": "Full developer SDK using Node.js, OpenAI GPT-4, and Pinecone with semantic search, embedded logging, and Docker deployment.",
+      "highlights": [
+        "Semantic search with Pinecone",
+        "Real-time chat with Socket.IO",
+        "40% reduction in data retrieval time"
+      ],
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "url": "https://github.com/aakash-priyadarshi/gpt-model"
     }
   ]
 }
