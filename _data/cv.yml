@@ -2,96 +2,154 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Aakash Priyadarshi
+    - name: Location
+      value: London, United Kingdom
+    - name: Email
+      value: aakashm301@gmail.com
+    - name: Phone
+      value: +44 7407045050 | +91 6203965557
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. Computer Science (Distinction)
+      institution: University of Liverpool, Liverpool, United Kingdom
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Graduated with Distinction (72%)
+        - Scored 86.68 on COMP-517 Programming Fundamentals, ranked among top 8 students
+        - Dissertation on Building a Predictive Model for Stock Market Prices
+        - Focus on AI, Machine Learning, and Advanced Data Modeling
+    - title: B.Tech. Electronics & Instrumentation Engineering (Merit)
+      institution: Galgotias College of Engineering and Technology, Greater Noida, India
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with Merit
+        - Final year project on AI-powered parking system deployed in Patna Smart City
+        - Developed AI-integrated robotic exosuit prototype (later patented)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Full-Stack AI Engineer
+      institution: Mercor, Remote, USA
+      year: 02/2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Engineered internal developer tools for GPT evaluation workflows using Python (FastAPI) and React.js
+        - Built internal GPT evaluation pipelines deployed via Docker on AWS Lambda and EC2
+        - Authored Python scripts for automated data collection and semantic scoring supporting large-scale LLM testing
+        - Designed full-stack architecture with containerization, observability, and cross-team AI research collaboration
+    
+    - title: Senior Software Developer & Technical Lead
+      institution: Bihari Construction & Infra Pvt. Ltd., New Delhi, India
+      year: 07/2020 - 09/2023
       description:
-        - Description 1.
-        - Description 2.
+        - Led development of internal web apps (React, Node.js) for team tracking, project operations, and finance
+        - Automated business operations using REST APIs, WebSockets, and SQL data pipelines
+        - Delivered tools improving response times and reducing routine tasks for CS/Ops teams
+        - Owned sprint planning and code delivery with cross-functional teams
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Computer Science Professor
+      institution: Wirral Met College, Birkenhead, United Kingdom
+      year: 09/2024 - 02/2025
       description:
+        - Taught Python programming and web development
+        - Fostered innovation and problem-solving among students
+        - Developed curriculum and teaching materials
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: University of Liverpool, Liverpool, United Kingdom
+      year: 09/2023 - 12/2024
+      description:
+        - Guided undergraduate students in Software Engineering and Cybersecurity modules
+        - Assisted with coursework, labs, and student mentorship
 
-- title: Open Source Projects
+    - title: Remote Student Mentor Volunteer
+      institution: Coursera, California, USA
+      year: 2017 - 2020
+      description:
+        - Mentored students globally in computer science and programming fundamentals
+        - Provided guidance on course projects and career development
+
+- title: Open Source Contributions
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/astropy/astropy/pull/18778">Astropy FITS Logical VLA Fix</a>
+      year: 10/2025 - 11/2025
+      description: Fixed 14-year-old FITS standard compliance bug in binary table I/O module. First person to identify bug since 2011 PyFITS implementation. Added 500+ lines of code, 24 comprehensive tests achieving 82% coverage. Merged into v8.0.0 milestone.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - DRDO Patent Recognition - AI Integrated Robotic Military Suit shortlisted for military use
+        - Astropy Open-Source Contribution - Merged PR fixing 14-year-old bug
+    - year: 2023-2024
       items:
-        - Max Planck Medal
+        - MSc Computer Science with Distinction (72%)
+        - Top 8 student ranking in COMP-517 Programming Fundamentals (86.68 score)
+    - year: 2020
+      items:
+        - B.Tech with Merit
+        - Media Coverage for HIND WebRTC Video Conferencing Platform
+    - year: High School
+      items:
+        - Ranked 4th in Bihar for National English Olympiad
+        - Two consecutive national-level selections for Science Exhibitions
+
+- title: Patents
+  type: list
+  contents:
+    - <b>Artificial Intelligence Integrated Robotic Military Suit</b> (2024) - Shortlisted by DRDO for military use
+    - <b>User Interactive Assistive Learning Educational Content Generation AI Platform</b> (2023)
+    - <b>Industrial Load Lifting Robotic Arm Exosuit</b> (2021)
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: AI & LLM Development
+      items:
+        - LangChain, RAG pipelines, OpenAI APIs, Pinecone, prompt engineering
+        - Hugging Face Transformers, vector stores, structured prompt frameworks
+        - RLHF, model evaluation, fine-tuning
+    - title: Full-Stack Development
+      items:
+        - "Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Shadcn"
+        - "Backend: Python (FastAPI, Flask), Node.js, REST APIs, WebSockets"
+        - "Database: PostgreSQL, Redis, Firebase, MongoDB"
+    - title: ML & Cloud
+      items:
+        - "ML Frameworks: TensorFlow, Scikit-learn, Keras, PyTorch"
+        - "Cloud & DevOps: AWS, GCP, Docker, GitHub Actions, Cloud Run"
+        - "Tools: Git, CI/CD, pytest, Playwright"
+
+- title: Publications & Research
+  type: list
+  contents:
+    - Open-Source Contribution to Astropy - Fixed FITS logical variable-length array storage bug
+    - Deep Learning Innovations in Automated Breast Cancer Detection with Integrated Ultrasound Datasets
+    - Research on AI-driven trading systems and predictive analytics
+    - Focus on AI hallucination mitigation, advanced robotics, and multimodal learning
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI Agent Systems
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Production-grade AI agents and autonomous reasoning
+        - LLM-powered applications and orchestration logic
+        - Human-machine collaboration and interaction
+    - title: Wearable Robotics
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - AI-integrated exosuits for industrial and medical applications
+        - Brain-machine interfaces and human augmentation
+        - Biomechatronics and assistive technologies
+    - title: Applied AI
+      items:
+        - Educational technology and accessible learning platforms
+        - Healthcare AI and diagnostic systems
+        - Industrial automation and workplace safety
