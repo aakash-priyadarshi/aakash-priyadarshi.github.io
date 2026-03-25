@@ -89,7 +89,7 @@ Software Engineer with hands-on experience building production-grade AI agents, 
 - **Database & Tools:** Firebase, PostgreSQL, Redis, CI/CD, pytest, Playwright
 
 ###  **Personal Projects**
-- **Astropy FITS Logical VLA Fix** - Diagnosed and resolved 14-year-old FITS standard compliance bug in Astropy's binary table I/O module. Implemented dtype=object architecture for three-state logical data (True/False/None), added 24 unit tests, achieved 82% test coverage. Merged into v8.0.0 release. [GitHub PR](https://github.com/astropy/astropy/pull/18778)
+
 - **Machine Learning Model to Forecast Company Stock Prices** - Built a cloud-based web app using React.js, Python (Flask), and AWS with RESTful APIs for real-time data processing. Deployed on AWS with 3x performance improvement. [GitHub](https://github.com/aakash-priyadarshi/ai-trading-bot)
 - **Chatbot for Contextual Customer Interaction** - Real-time chat system with Socket.IO, semantic search using Hugging Face & Pinecone, integrated OpenAI GPT-3.5, reducing data retrieval time by 40%.
 - **AI Car Parking Management System** - Built with React.js, Node.js, WebSockets, and predictive models using Python, OpenCV, TensorFlow, reducing search times by 30%.
