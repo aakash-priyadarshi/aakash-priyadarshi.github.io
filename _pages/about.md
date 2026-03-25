@@ -42,7 +42,6 @@ Software Engineer with hands-on experience building production-grade AI agents, 
 3. **Industrial Load Lifting Robotic Arm Exosuit** (2021)
 
 ###  **Achievements**
-- **Open-Source Contribution to Astropy** (4.3k+ stars) – Fixed 14-year-old FITS standard compliance bug in binary table I/O module ([PR #18778](https://github.com/astropy/astropy/pull/18778)). First person to identify this bug since original 2011 PyFITS implementation. Implemented writer/reader conversion logic for logical variable-length arrays, added 24 comprehensive unit tests achieving 82% coverage. Merged into v8.0.0 milestone.
 - Ranked **4th in Bihar** for the National English Olympiad during high school.
 - Two consecutive national-level selections for **Science Exhibitions**.
 - My projects, such as *HIND: A WebRTC Video Conferencing Platform*, received **media coverage** and public appreciation.
